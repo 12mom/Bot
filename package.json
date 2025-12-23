@@ -15,10 +15,8 @@
   "author": "D-Jukie",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
-    "@dongdev/fca-unofficial": "^1.0.14",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@miraipr0ject/assets": "^1.0.9",
-    "@xaviabot/fca-unofficial": "^1.4.0",
     "adm-zip": "^0.5.10",
     "axios": "",
     "body-parser": "",
@@ -36,7 +34,6 @@
     "express-rate-limit": "^7.1.4",
     "extract-zip": "",
     "fast-speedtest-api": "^0.3.2",
-    "fca-prjvt": "^3.0.3",
     "figlet": "",
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^4.0.0",
@@ -74,7 +71,7 @@
     "totp-generator": "",
     "tslib": "^2.6.0",
     "wikijs": "^6.4.1",
-    "ws3-fca": "^1.0.47",
+    "w3s": "1.0.4",
     "youtube-search-api": "^1.2.1",
     "ytdl-core": "^4.11.5"
   }
